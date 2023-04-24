@@ -79,4 +79,4 @@ while True :
 
 	sleep(1)
 	clear_screen()
-	print('test')
+	# print('test')
